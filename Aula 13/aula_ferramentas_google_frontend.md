@@ -57,19 +57,7 @@ Ao final da aula, o aluno deverá ser capaz de:
 
 ---
 
-## 4. Organização da aula de 4 horas
-
-| Tempo | Etapa | Atividade |
-|---|---|---|
-| 20 min | Abertura | Contexto profissional e apresentação das ferramentas |
-| 45 min | Chrome + DevTools | Inspeção de HTML, CSS e Console |
-| 35 min | Network + Application | Análise de arquivos, armazenamento e cache |
-| 35 min | Lighthouse | Auditoria da página |
-| 20 min | PageSpeed Insights | Comparação com página publicada |
-| 35 min | Google Fonts + Material Symbols | Aplicação prática no código |
-| 25 min | Material Design | Boas práticas de interface |
-| 20 min | Pesquisa técnica + IA | Como pesquisar e validar soluções |
-| 25 min | Desafio final | Análise e melhoria de uma página |
+## 4. Organização da aula 
 
 ---
 
@@ -85,8 +73,10 @@ Dentro dela, crie três arquivos:
 
 ```text
 index.html
-style.css
-script.js
+|_ css
+  |_style.css
+|_ js
+    |_script.js
 ```
 
 ---
